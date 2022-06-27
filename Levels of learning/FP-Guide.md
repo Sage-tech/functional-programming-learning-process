@@ -1,4 +1,4 @@
-# Ladder of Functional Programming
+# FP Guide
 
 This training will use the [Standardized Ladder of Functional Programming](https://twitter.com/lambda_conf/status/803695008100466688) to guide what is covered and in which order.
 
